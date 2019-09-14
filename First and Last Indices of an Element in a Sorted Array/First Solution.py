@@ -6,6 +6,7 @@ Created on Sat Sep 14 17:19:05 2019
 @author: gauravmalik
 """
 class Solution: 
+    """This class contains a method called *getRange* which returns the first and last pos of target element in arr"""
     def getRange(self, arr, target):
         print(arr, target)
         firstPos = -1
